@@ -1,0 +1,30 @@
+	body{
+
+		background-color: red
+	}
+
+
+
+	h1{
+		padding:25px 10px;
+		/*padding-left:50px;*/
+		margin:10px;
+	}
+	p.st,h1.st2,span.st{
+	color:white;background-color:green;
+	}
+	.st2{
+	}
+	p{
+		color:green;
+		text-decoration:underline;
+	}
+	a{
+		text-decoration:none;
+		color:black;
+	}
+	a:hover{
+		text-decoration:underline;
+		color:red;
+		border:1px solid rgb(100,0,250);
+	}
